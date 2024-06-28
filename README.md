@@ -6,3 +6,8 @@
 <div align="center">
 <img src="https://github.com/LeoMarxs/RPG-game-/assets/139794793/4c1d08d7-fc71-4d85-afab-9ed421592c83" width="1000px" />
 </div>
+
+### Increase your level
+<div align="center">
+<img src="https://github.com/LeoMarxs/RPG-GAME/assets/139794793/8a7e23ee-c3bf-46fd-9aa1-30f59493cc55" width="500px" />
+</div>
