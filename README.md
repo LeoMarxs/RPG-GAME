@@ -20,5 +20,10 @@
 
 ## Fight powerful enemies
 <div align="center">
-<img src="https://github.com/LeoMarxs/RPG-GAME/assets/139794793/664b038d-e8bb-4e84-87e3-347008e49e2d" width="520px" />
+<img src="https://github.com/LeoMarxs/RPG-GAME/assets/139794793/664b038d-e8bb-4e84-87e3-347008e49e2d" width="500px" />
+</div>
+
+## Or die trying!
+<div align="center">
+<img src="https://github.com/LeoMarxs/RPG-GAME/assets/139794793/0df0c20a-ef05-42c4-975d-ce70de415473" width="280px" />
 </div>
