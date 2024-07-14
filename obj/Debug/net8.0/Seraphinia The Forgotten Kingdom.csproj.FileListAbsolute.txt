@@ -1,0 +1,14 @@
+C:\POG\Seraphinia The Forgotten Kingdom\bin\Debug\net8.0\Seraphinia The Forgotten Kingdom.exe
+C:\POG\Seraphinia The Forgotten Kingdom\bin\Debug\net8.0\Seraphinia The Forgotten Kingdom.deps.json
+C:\POG\Seraphinia The Forgotten Kingdom\bin\Debug\net8.0\Seraphinia The Forgotten Kingdom.runtimeconfig.json
+C:\POG\Seraphinia The Forgotten Kingdom\bin\Debug\net8.0\Seraphinia The Forgotten Kingdom.dll
+C:\POG\Seraphinia The Forgotten Kingdom\bin\Debug\net8.0\Seraphinia The Forgotten Kingdom.pdb
+C:\POG\Seraphinia The Forgotten Kingdom\obj\Debug\net8.0\Seraphinia The Forgotten Kingdom.GeneratedMSBuildEditorConfig.editorconfig
+C:\POG\Seraphinia The Forgotten Kingdom\obj\Debug\net8.0\Seraphinia The Forgotten Kingdom.AssemblyInfoInputs.cache
+C:\POG\Seraphinia The Forgotten Kingdom\obj\Debug\net8.0\Seraphinia The Forgotten Kingdom.AssemblyInfo.cs
+C:\POG\Seraphinia The Forgotten Kingdom\obj\Debug\net8.0\Seraphinia The Forgotten Kingdom.csproj.CoreCompileInputs.cache
+C:\POG\Seraphinia The Forgotten Kingdom\obj\Debug\net8.0\Seraphinia The Forgotten Kingdom.dll
+C:\POG\Seraphinia The Forgotten Kingdom\obj\Debug\net8.0\refint\Seraphinia The Forgotten Kingdom.dll
+C:\POG\Seraphinia The Forgotten Kingdom\obj\Debug\net8.0\Seraphinia The Forgotten Kingdom.pdb
+C:\POG\Seraphinia The Forgotten Kingdom\obj\Debug\net8.0\Seraphinia The Forgotten Kingdom.genruntimeconfig.cache
+C:\POG\Seraphinia The Forgotten Kingdom\obj\Debug\net8.0\ref\Seraphinia The Forgotten Kingdom.dll

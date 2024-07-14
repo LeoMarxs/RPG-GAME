@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seraphinia The Forgotten Kingdom", "Seraphinia The Forgotten Kingdom.csproj", "{27588F31-E85F-413C-87B2-E511BA22FB2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27588F31-E85F-413C-87B2-E511BA22FB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27588F31-E85F-413C-87B2-E511BA22FB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27588F31-E85F-413C-87B2-E511BA22FB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27588F31-E85F-413C-87B2-E511BA22FB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05E5203A-0014-41C2-9EEB-AB5F4CBE96C4}
+	EndGlobalSection
+EndGlobal

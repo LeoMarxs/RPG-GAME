@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Seraphinia The Forgotten Kingdom/1.0.0": {
+        "runtime": {
+          "Seraphinia The Forgotten Kingdom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seraphinia The Forgotten Kingdom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
